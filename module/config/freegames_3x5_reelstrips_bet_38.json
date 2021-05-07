@@ -1,0 +1,464 @@
+{
+    "reelStripDefinitions": [
+        {
+            "name": "FG Reel 1",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC1"
+                }
+            ]
+        },
+        {
+            "name": "FG Reel 2",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                }
+            ]
+        },
+        {
+            "name": "FG Reel 3",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                }
+            ]
+        },
+        {
+            "name": "FG Reel 4",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5"
+                }
+            ]
+        },
+        {
+            "name": "FG Reel 5",
+            "stops": [
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "JACK"
+                }
+            ]
+        }
+    ]
+}

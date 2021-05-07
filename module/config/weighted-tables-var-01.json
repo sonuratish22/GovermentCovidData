@@ -1,0 +1,5011 @@
+{
+    "version": "1.00",
+    "tables": [
+        {
+            "name": "BaseGame_Multiplier_Bet_38",
+            "entries": [
+                {
+                    "value": 1,
+                    "weight": 1
+                },
+                {
+                    "value": 2,
+                    "weight": 0
+                },
+                {
+                    "value": 3,
+                    "weight": 0
+                },
+                {
+                    "value": 5,
+                    "weight": 0
+                },
+                {
+                    "value": 8,
+                    "weight": 0
+                },
+                {
+                    "value": 10,
+                    "weight": 0
+                },
+                {
+                    "value": 15,
+                    "weight": 0
+                },
+                {
+                    "value": 30,
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Multiplier_Bet_58",
+            "entries": [
+                {
+                    "value": 1,
+                    "weight": 5500
+                },
+                {
+                    "value": 2,
+                    "weight": 1500
+                },
+                {
+                    "value": 3,
+                    "weight": 820
+                },
+                {
+                    "value": 5,
+                    "weight": 530
+                },
+                {
+                    "value": 8,
+                    "weight": 98
+                },
+                {
+                    "value": 10,
+                    "weight": 60
+                },
+                {
+                    "value": 15,
+                    "weight": 15
+                },
+                {
+                    "value": 30,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Multiplier_Bet_68",
+            "entries": [
+                {
+                    "value": 1,
+                    "weight": 5480
+                },
+                {
+                    "value": 2,
+                    "weight": 1500
+                },
+                {
+                    "value": 3,
+                    "weight": 800
+                },
+                {
+                    "value": 5,
+                    "weight": 487
+                },
+                {
+                    "value": 8,
+                    "weight": 95
+                },
+                {
+                    "value": 10,
+                    "weight": 60
+                },
+                {
+                    "value": 15,
+                    "weight": 13
+                },
+                {
+                    "value": 30,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Multiplier_Bet_78",
+            "entries": [
+                {
+                    "value": 1,
+                    "weight": 5400
+                },
+                {
+                    "value": 2,
+                    "weight": 1500
+                },
+                {
+                    "value": 3,
+                    "weight": 800
+                },
+                {
+                    "value": 5,
+                    "weight": 480
+                },
+                {
+                    "value": 8,
+                    "weight": 90
+                },
+                {
+                    "value": 10,
+                    "weight": 60
+                },
+                {
+                    "value": 15,
+                    "weight": 13
+                },
+                {
+                    "value": 30,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Multiplier_Bet_88",
+            "entries": [
+                {
+                    "value": 1,
+                    "weight": 5400
+                },
+                {
+                    "value": 2,
+                    "weight": 1500
+                },
+                {
+                    "value": 3,
+                    "weight": 790
+                },
+                {
+                    "value": 5,
+                    "weight": 470
+                },
+                {
+                    "value": 8,
+                    "weight": 92
+                },
+                {
+                    "value": 10,
+                    "weight": 60
+                },
+                {
+                    "value": 15,
+                    "weight": 13
+                },
+                {
+                    "value": 30,
+                    "weight": 7
+                }
+            ]
+        },               
+        {
+            "name": "FreeGame_Multiplier_Feature_1_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 36
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 28
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2247
+                },
+                {
+                    "value": 1,
+                    "weight": 1700
+                },
+                {
+                    "value": 2,
+                    "weight": 1500
+                },
+                {
+                    "value": 3,
+                    "weight": 870
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2700
+                },
+                {
+                    "value": 1,
+                    "weight": 3400
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1200
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2760
+                },
+                {
+                    "value": 1,
+                    "weight": 2400
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1150
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2470
+                },
+                {
+                    "value": 1,
+                    "weight": 2400
+                },
+                {
+                    "value": 2,
+                    "weight": 1700
+                },
+                {
+                    "value": 3,
+                    "weight": 1300
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_3x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4050
+                },
+                {
+                    "value": 1,
+                    "weight": 3800
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 36
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 28
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2571
+                },
+                {
+                    "value": 1,
+                    "weight": 4500
+                },
+                {
+                    "value": 2,
+                    "weight": 2500
+                },
+                {
+                    "value": 3,
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 3090
+                },
+                {
+                    "value": 1,
+                    "weight": 4500
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 900
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 6500
+                },
+                {
+                    "value": 1,
+                    "weight": 4200
+                },
+                {
+                    "value": 2,
+                    "weight": 2200
+                },
+                {
+                    "value": 3,
+                    "weight": 900
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5620
+                },
+                {
+                    "value": 1,
+                    "weight": 3000
+                },
+                {
+                    "value": 2,
+                    "weight": 1200
+                },
+                {
+                    "value": 3,
+                    "weight": 600
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_4x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 6900
+                },
+                {
+                    "value": 1,
+                    "weight": 3000
+                },
+                {
+                    "value": 2,
+                    "weight": 1500
+                },
+                {
+                    "value": 3,
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 55
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 16
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 75
+                },
+                {
+                    "value": 5,
+                    "weight": 40
+                },
+                {
+                    "value": 8,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 95
+                },
+                {
+                    "value": 8,
+                    "weight": 30
+                },
+                {
+                    "value": 10,
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 465
+                },
+                {
+                    "value": 10,
+                    "weight": 130
+                },
+                {
+                    "value": 15,
+                    "weight": 17
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 70
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 2
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7950
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 1000
+                },
+                {
+                    "value": 3,
+                    "weight": 500
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1135
+                },
+                {
+                    "value": 1,
+                    "weight": 380
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 50
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2940
+                },
+                {
+                    "value": 1,
+                    "weight": 390
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 60
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2900
+                },
+                {
+                    "value": 1,
+                    "weight": 380
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 60
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_5x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2390
+                },
+                {
+                    "value": 1,
+                    "weight": 1250
+                },
+                {
+                    "value": 2,
+                    "weight": 800
+                },
+                {
+                    "value": 3,
+                    "weight": 750
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 58
+                },
+                {
+                    "value": 3,
+                    "weight": 35
+                },
+                {
+                    "value": 5,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 75
+                },
+                {
+                    "value": 5,
+                    "weight": 40
+                },
+                {
+                    "value": 8,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 68
+                },
+                {
+                    "value": 8,
+                    "weight": 17
+                },
+                {
+                    "value": 10,
+                    "weight": 2
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 840
+                },
+                {
+                    "value": 10,
+                    "weight": 150
+                },
+                {
+                    "value": 15,
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 52
+                },
+                {
+                    "value": 15,
+                    "weight": 18
+                },
+                {
+                    "value": 30,
+                    "weight": 2
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7760
+                },
+                {
+                    "value": 1,
+                    "weight": 3400
+                },
+                {
+                    "value": 2,
+                    "weight": 1000
+                },
+                {
+                    "value": 3,
+                    "weight": 400
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1405
+                },
+                {
+                    "value": 1,
+                    "weight": 330
+                },
+                {
+                    "value": 2,
+                    "weight": 125
+                },
+                {
+                    "value": 3,
+                    "weight": 35
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2590
+                },
+                {
+                    "value": 1,
+                    "weight": 300
+                },
+                {
+                    "value": 2,
+                    "weight": 130
+                },
+                {
+                    "value": 3,
+                    "weight": 40
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 3240
+                },
+                {
+                    "value": 1,
+                    "weight": 360
+                },
+                {
+                    "value": 2,
+                    "weight": 100
+                },
+                {
+                    "value": 3,
+                    "weight": 30
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_6x5_Bet_38",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1438
+                },
+                {
+                    "value": 1,
+                    "weight": 600
+                },
+                {
+                    "value": 2,
+                    "weight": 300
+                },
+                {
+                    "value": 3,
+                    "weight": 150
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5920
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 8500
+                },
+                {
+                    "value": 3,
+                    "weight": 6800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4390
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 8500
+                },
+                {
+                    "value": 3,
+                    "weight": 7000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 3190
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 7000
+                },
+                {
+                    "value": 3,
+                    "weight": 6800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2450
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 7500
+                },
+                {
+                    "value": 3,
+                    "weight": 7000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_3x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2700
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 7500
+                },
+                {
+                    "value": 3,
+                    "weight": 4500
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4350
+                },
+                {
+                    "value": 1,
+                    "weight": 2000
+                },
+                {
+                    "value": 2,
+                    "weight": 1200
+                },
+                {
+                    "value": 3,
+                    "weight": 820
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5200
+                },
+                {
+                    "value": 1,
+                    "weight": 2000
+                },
+                {
+                    "value": 2,
+                    "weight": 1200
+                },
+                {
+                    "value": 3,
+                    "weight": 620
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 10050
+                },
+                {
+                    "value": 1,
+                    "weight": 1800
+                },
+                {
+                    "value": 2,
+                    "weight": 1000
+                },
+                {
+                    "value": 3,
+                    "weight": 500
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 14500
+                },
+                {
+                    "value": 1,
+                    "weight": 1500
+                },
+                {
+                    "value": 2,
+                    "weight": 700
+                },
+                {
+                    "value": 3,
+                    "weight": 400
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_4x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 12500
+                },
+                {
+                    "value": 1,
+                    "weight": 1500
+                },
+                {
+                    "value": 2,
+                    "weight": 700
+                },
+                {
+                    "value": 3,
+                    "weight": 325
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 27
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 56
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 9
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 70
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 582
+                },
+                {
+                    "value": 1,
+                    "weight": 350
+                },
+                {
+                    "value": 2,
+                    "weight": 150
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1140
+                },
+                {
+                    "value": 1,
+                    "weight": 380
+                },
+                {
+                    "value": 2,
+                    "weight": 200
+                },
+                {
+                    "value": 3,
+                    "weight": 75
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2480
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 150
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1745
+                },
+                {
+                    "value": 1,
+                    "weight": 500
+                },
+                {
+                    "value": 2,
+                    "weight": 250
+                },
+                {
+                    "value": 3,
+                    "weight": 180
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_5x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2400
+                },
+                {
+                    "value": 1,
+                    "weight": 2000
+                },
+                {
+                    "value": 2,
+                    "weight": 1700
+                },
+                {
+                    "value": 3,
+                    "weight": 1600
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 58
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 80
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 635
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 150
+                },
+                {
+                    "value": 3,
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 970
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 175
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2080
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 150
+                },
+                {
+                    "value": 3,
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 929
+                },
+                {
+                    "value": 1,
+                    "weight": 350
+                },
+                {
+                    "value": 2,
+                    "weight": 150
+                },
+                {
+                    "value": 3,
+                    "weight": 60
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_6x5_Bet_58",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1040
+                },
+                {
+                    "value": 1,
+                    "weight": 450
+                },
+                {
+                    "value": 2,
+                    "weight": 750
+                },
+                {
+                    "value": 3,
+                    "weight": 460
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 13
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 11
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 88
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 9
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5100
+                },
+                {
+                    "value": 1,
+                    "weight": 3500
+                },
+                {
+                    "value": 2,
+                    "weight": 5000
+                },
+                {
+                    "value": 3,
+                    "weight": 5800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5390
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 6500
+                },
+                {
+                    "value": 3,
+                    "weight": 7800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4430
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 6000
+                },
+                {
+                    "value": 3,
+                    "weight": 7950
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4080
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 6000
+                },
+                {
+                    "value": 3,
+                    "weight": 8200
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_3x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4390
+                },
+                {
+                    "value": 1,
+                    "weight": 2700
+                },
+                {
+                    "value": 2,
+                    "weight": 5600
+                },
+                {
+                    "value": 3,
+                    "weight": 5500
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 3290
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2200
+                },
+                {
+                    "value": 3,
+                    "weight": 1400
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 3860
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2200
+                },
+                {
+                    "value": 3,
+                    "weight": 1150
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4330
+                },
+                {
+                    "value": 1,
+                    "weight": 2500
+                },
+                {
+                    "value": 2,
+                    "weight": 1200
+                },
+                {
+                    "value": 3,
+                    "weight": 700
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 9700
+                },
+                {
+                    "value": 1,
+                    "weight": 4500
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_4x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5260
+                },
+                {
+                    "value": 1,
+                    "weight": 2700
+                },
+                {
+                    "value": 2,
+                    "weight": 1100
+                },
+                {
+                    "value": 3,
+                    "weight": 600
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 27
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 650
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 970
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2400
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 90
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 9370
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1100
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_5x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 3280
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 3800
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 78
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 952
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 200
+                },
+                {
+                    "value": 3,
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1250
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 200
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2350
+                },
+                {
+                    "value": 1,
+                    "weight": 300
+                },
+                {
+                    "value": 2,
+                    "weight": 150
+                },
+                {
+                    "value": 3,
+                    "weight": 60
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 940
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 130
+                },
+                {
+                    "value": 3,
+                    "weight": 60
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_6x5_Bet_68",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 540
+                },
+                {
+                    "value": 1,
+                    "weight": 500
+                },
+                {
+                    "value": 2,
+                    "weight": 300
+                },
+                {
+                    "value": 3,
+                    "weight": 320
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 13
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 11
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 88
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 9
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4450
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 4000
+                },
+                {
+                    "value": 3,
+                    "weight": 4700
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4810
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 4500
+                },
+                {
+                    "value": 3,
+                    "weight": 5500
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4470
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 4500
+                },
+                {
+                    "value": 3,
+                    "weight": 5500
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4420
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 5000
+                },
+                {
+                    "value": 3,
+                    "weight": 5500
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_3x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 4410
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3800
+                },
+                {
+                    "value": 3,
+                    "weight": 4000
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5910
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 2800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5730
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 2000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 5470
+                },
+                {
+                    "value": 1,
+                    "weight": 4500
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7210
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_4x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 6940
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2050
+                },
+                {
+                    "value": 3,
+                    "weight": 1100
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 27
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 580
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 200
+                },
+                {
+                    "value": 3,
+                    "weight": 90
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 592
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 90
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1035
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 145
+                },
+                {
+                    "value": 3,
+                    "weight": 75
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1242
+                },
+                {
+                    "value": 1,
+                    "weight": 1000
+                },
+                {
+                    "value": 2,
+                    "weight": 600
+                },
+                {
+                    "value": 3,
+                    "weight": 200
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_5x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2410
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 4000
+                },
+                {
+                    "value": 3,
+                    "weight": 4400
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 78
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 523
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 75
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 614
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 65
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1120
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 65
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2440
+                },
+                {
+                    "value": 1,
+                    "weight": 1000
+                },
+                {
+                    "value": 2,
+                    "weight": 600
+                },
+                {
+                    "value": 3,
+                    "weight": 400
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_6x5_Bet_78",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 784
+                },
+                {
+                    "value": 1,
+                    "weight": 1250
+                },
+                {
+                    "value": 2,
+                    "weight": 1000
+                },
+                {
+                    "value": 3,
+                    "weight": 665
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 13
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 11
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 88
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 9
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7100
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 3940
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 6900
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 3980
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 6900
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 3950
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 6900
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 3900
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_3x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 8480
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 3000
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 75
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7160
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 2800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7090
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 1800
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 7720
+                },
+                {
+                    "value": 1,
+                    "weight": 4500
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 900
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 10800
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2000
+                },
+                {
+                    "value": 3,
+                    "weight": 900
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_4x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 10420
+                },
+                {
+                    "value": 1,
+                    "weight": 4000
+                },
+                {
+                    "value": 2,
+                    "weight": 2050
+                },
+                {
+                    "value": 3,
+                    "weight": 950
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 27
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 89
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 600
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 835
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 120
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2010
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 145
+                },
+                {
+                    "value": 3,
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2060
+                },
+                {
+                    "value": 1,
+                    "weight": 1000
+                },
+                {
+                    "value": 2,
+                    "weight": 600
+                },
+                {
+                    "value": 3,
+                    "weight": 190
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_5x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2700
+                },
+                {
+                    "value": 1,
+                    "weight": 5000
+                },
+                {
+                    "value": 2,
+                    "weight": 3500
+                },
+                {
+                    "value": 3,
+                    "weight": 3000
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_1_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 2,
+                    "weight": 35
+                },
+                {
+                    "value": 3,
+                    "weight": 37
+                },
+                {
+                    "value": 5,
+                    "weight": 29
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_2_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 3,
+                    "weight": 45
+                },
+                {
+                    "value": 5,
+                    "weight": 44
+                },
+                {
+                    "value": 8,
+                    "weight": 12
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_3_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 5,
+                    "weight": 52
+                },
+                {
+                    "value": 8,
+                    "weight": 36
+                },
+                {
+                    "value": 10,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_4_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 8,
+                    "weight": 78
+                },
+                {
+                    "value": 10,
+                    "weight": 12
+                },
+                {
+                    "value": 15,
+                    "weight": 7
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Multiplier_Feature_5_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 10,
+                    "weight": 74
+                },
+                {
+                    "value": 15,
+                    "weight": 22
+                },
+                {
+                    "value": 30,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_1_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 687
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 140
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_2_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 905
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 140
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_3_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1910
+                },
+                {
+                    "value": 1,
+                    "weight": 400
+                },
+                {
+                    "value": 2,
+                    "weight": 140
+                },
+                {
+                    "value": 3,
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_4_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 2435
+                },
+                {
+                    "value": 1,
+                    "weight": 1000
+                },
+                {
+                    "value": 2,
+                    "weight": 450
+                },
+                {
+                    "value": 3,
+                    "weight": 220
+                }
+            ]
+        },
+        {
+            "name": "Extra Free Games_Feature_5_6x5_Bet_88",
+            "entries": [
+                {
+                    "value": 0,
+                    "weight": 1062
+                },
+                {
+                    "value": 1,
+                    "weight": 1100
+                },
+                {
+                    "value": 2,
+                    "weight": 900
+                },
+                {
+                    "value": 3,
+                    "weight": 620
+                }
+            ]
+        },
+        {
+            "name": "JP_Reveal_Weightings_Bet_1x",
+            "entries": [
+                {
+                    "value": "Grand",
+                    "weight": 170000
+                },
+                {
+                    "value": "Grand",
+                    "weight": 170000
+                },
+                {
+                    "value": "Grand",
+                    "weight": 12
+                },
+                {
+                    "value": "Major",
+                    "weight": 170000
+                },
+                {
+                    "value": "Major",
+                    "weight": 170000
+                },
+                {
+                    "value": "Major",
+                    "weight": 160
+                },
+                {
+                    "value": "Minor",
+                    "weight": 150000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 150000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 17200
+                },
+                {
+                    "value": "Mini",
+                    "weight": 105000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 105000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 105000
+                }
+            ]
+        },
+        {
+            "name": "JP_Reveal_Weightings_Bet_2x",
+            "entries": [
+                {
+                    "value": "Grand",
+                    "weight": 17000240
+                },
+                {
+                    "value": "Grand",
+                    "weight": 16961400
+                },
+                {
+                    "value": "Grand",
+                     "weight": 2400
+                },
+                {
+                    "value": "Major",
+                     "weight": 16987575
+                },
+                {
+                    "value": "Major",
+                    "weight": 16986000
+                },
+                {
+                    "value": "Major",
+                    "weight": 32000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 15450000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 15000000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 1720000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10401100
+                }
+            ]
+        },
+        {
+            "name": "JP_Reveal_Weightings_Bet_3x",
+            "entries": [
+                {
+                    "value":"Grand",
+                    "weight": 17216024
+                },
+                {
+                    "value":"Grand",
+                    "weight": 17192170
+                },
+                {
+                    "value":"Grand",
+                    "weight": 3600
+                },
+                {
+                    "value":"Major",
+                    "weight": 17454477
+                },
+                {
+                    "value":"Major",
+                    "weight": 16985960
+                },
+                {
+                    "value":"Major",
+                    "weight": 48000
+                },
+                {
+                    "value":"Minor",
+                    "weight": 16350000
+                },
+                {
+                    "value":"Minor",
+                    "weight": 15000000
+                },
+                {
+                    "value":"Minor",
+                    "weight": 1720000
+                },
+                {
+                    "value":"Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value":"Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value":"Mini",
+                    "weight": 10401100
+                }
+            ]
+        },
+        {
+            "name": "JP_Reveal_Weightings_Bet_4x",
+            "entries": [
+                {
+                    "value": "Grand",
+                    "weight": 17551730
+                },
+                {
+                    "value": "Grand",
+                    "weight": 17290300
+                },
+                {
+                    "value": "Grand",
+                    "weight": 4800
+                },
+                {
+                    "value": "Major",
+                    "weight": 17643300
+                },
+                {
+                    "value": "Major",
+                    "weight": 17237875
+                },
+                {
+                    "value": "Major",
+                    "weight": 64000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 17250000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 15000000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 1720000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10401100
+                }
+            ]
+        },
+        {
+            "name": "JP_Reveal_Weightings_Bet_5x",
+            "entries": [
+                {
+                    "value": "Grand",
+                    "weight": 17883260
+                },
+                {
+                    "value": "Grand",
+                    "weight": 17469998
+                },
+                {
+                    "value": "Grand",
+                    "weight": 6000
+                },
+                {
+                    "value": "Major",
+                    "weight": 17723206
+                },
+                {
+                    "value": "Major",
+                    "weight": 17670775
+                },
+                {
+                    "value": "Major",
+                    "weight": 80000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 17150000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 16000000
+                },
+                {
+                    "value": "Minor",
+                    "weight": 1720000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10500000
+                },
+                {
+                    "value": "Mini",
+                    "weight": 10401100
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Wild_Appears_Trigger_Constant_Bet_58",
+            "entries": [
+                {
+                    "value": 11194000,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_1_Bet_58",
+            "entries": [
+                {
+                    "value": 10821497,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_2_Bet_58",
+            "entries": [
+                {
+                    "value": 14050299,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_3_Bet_58",
+            "entries": [
+                {
+                    "value": 19649302,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_4_Bet_58",
+            "entries": [
+                {
+                    "value": 25027293,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_5_Bet_58",
+            "entries": [
+                {
+                    "value": 31940532,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_1_Bet_58",
+            "entries": [
+                {
+                    "value": 23107309,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_2_Bet_58",
+            "entries": [
+                {
+                    "value": 29475598,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_3_Bet_58",
+            "entries": [
+                {
+                    "value": 40517883,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_4_Bet_58",
+            "entries": [
+                {
+                    "value": 51134994,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_5_Bet_58",
+            "entries": [
+                {
+                    "value": 64774441,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_1_Bet_58",
+            "entries": [
+                {
+                    "value": 36886201,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_2_Bet_58",
+            "entries": [
+                {
+                    "value": 47234092,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_3_Bet_58",
+            "entries": [
+                {
+                    "value": 63865132,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_4_Bet_58",
+            "entries": [
+                {
+                    "value": 81405657,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_5_Bet_58",
+            "entries": [
+                {
+                    "value": 103493132,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_1_Bet_58",
+            "entries": [
+                {
+                    "value": 72313796,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_2_Bet_58",
+            "entries": [
+                {
+                    "value": 91363714,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_3_Bet_58",
+            "entries": [
+                {
+                    "value": 122936575,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_4_Bet_58",
+            "entries": [
+                {
+                    "value": 157043294,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_5_Bet_58",
+            "entries": [
+                {
+                    "value": 197046168,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Wild_Appears_Trigger_Constant_Bet_68",
+            "entries": [
+                {
+                    "value": 13124000,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_1_Bet_68",
+            "entries": [
+                {
+                    "value": 12818709,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_2_Bet_68",
+            "entries": [
+                {
+                    "value": 16749791,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_3_Bet_68",
+            "entries": [
+                {
+                    "value": 23375572,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_4_Bet_68",
+            "entries": [
+                {
+                    "value": 30018612,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_5_Bet_68",
+            "entries": [
+                {
+                    "value": 37823320,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_1_Bet_68",
+            "entries": [
+                {
+                    "value": 24223023,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_2_Bet_68",
+            "entries": [
+                {
+                    "value": 30877033,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_3_Bet_68",
+            "entries": [
+                {
+                    "value": 42423600,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_4_Bet_68",
+            "entries": [
+                {
+                    "value": 53523323,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_5_Bet_68",
+            "entries": [
+                {
+                    "value": 67781054,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_1_Bet_68",
+            "entries": [
+                {
+                    "value": 47712048,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_2_Bet_68",
+            "entries": [
+                {
+                    "value": 60277600,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_3_Bet_68",
+            "entries": [
+                {
+                    "value": 81451676,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_4_Bet_68",
+            "entries": [
+                {
+                    "value": 101797706,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_5_Bet_68",
+            "entries": [
+                {
+                    "value": 128057413,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_1_Bet_68",
+            "entries": [
+                {
+                    "value": 92345697,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_2_Bet_68",
+            "entries": [
+                {
+                    "value": 115339785,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_3_Bet_68",
+            "entries": [
+                {
+                    "value": 155202339,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_4_Bet_68",
+            "entries": [
+                {
+                    "value": 194947757,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_5_Bet_68",
+            "entries": [
+                {
+                    "value": 243015317,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Wild_Appears_Trigger_Constant_Bet_78",
+            "entries": [
+                {
+                    "value": 15054000,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_1_Bet_78",
+            "entries": [
+                {
+                    "value": 15182197,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_2_Bet_78",
+            "entries": [
+                {
+                    "value": 19984262,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_3_Bet_78",
+            "entries": [
+                {
+                    "value": 28103279,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_4_Bet_78",
+            "entries": [
+                {
+                    "value": 36232004,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_5_Bet_78",
+            "entries": [
+                {
+                    "value": 45789844,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_1_Bet_78",
+            "entries": [
+                {
+                    "value": 26919310,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_2_Bet_78",
+            "entries": [
+                {
+                    "value": 34141761,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_3_Bet_78",
+            "entries": [
+                {
+                    "value": 46667883,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_4_Bet_78",
+            "entries": [
+                {
+                    "value": 58697655,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_5_Bet_78",
+            "entries": [
+                {
+                    "value": 74178539,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_1_Bet_78",
+            "entries": [
+                {
+                    "value": 52489294,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_2_Bet_78",
+            "entries": [
+                {
+                    "value": 65817716,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_3_Bet_78",
+            "entries": [
+                {
+                    "value": 88276131,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_4_Bet_78",
+            "entries": [
+                {
+                    "value": 109877021,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_5_Bet_78",
+            "entries": [
+                {
+                    "value": 137748608,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_1_Bet_78",
+            "entries": [
+                {
+                    "value": 101607725,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_2_Bet_78",
+            "entries": [
+                {
+                    "value": 125987774,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_3_Bet_78",
+            "entries": [
+                {
+                    "value": 168261803,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_4_Bet_78",
+            "entries": [
+                {
+                    "value": 210345608,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_5_Bet_78",
+            "entries": [
+                {
+                    "value": 261348331,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "BaseGame_Wild_Appears_Trigger_Constant_Bet_88",
+            "entries": [
+                {
+                    "value": 16984000,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_1_Bet_88",
+            "entries": [
+                {
+                    "value": 18227504,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_2_Bet_88",
+            "entries": [
+                {
+                    "value": 24070800,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_3_Bet_88",
+            "entries": [
+                {
+                    "value": 33935634,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_4_Bet_88",
+            "entries": [
+                {
+                    "value": 43824828,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_3x5 Grid_Feature_5_Bet_88",
+            "entries": [
+                {
+                    "value": 55444419,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_1_Bet_88",
+            "entries": [
+                {
+                    "value": 31171303,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_2_Bet_88",
+            "entries": [
+                {
+                    "value": 39763386,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_3_Bet_88",
+            "entries": [
+                {
+                    "value": 54660074,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_4_Bet_88",
+            "entries": [
+                {
+                    "value": 68982552,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_4x5 Grid_Feature_5_Bet_88",
+            "entries": [
+                {
+                    "value": 87356982,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_1_Bet_88",
+            "entries": [
+                {
+                    "value": 61226173,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_2_Bet_88",
+            "entries": [
+                {
+                    "value": 77270106,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_3_Bet_88",
+            "entries": [
+                {
+                    "value": 104280675,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_4_Bet_88",
+            "entries": [
+                {
+                    "value": 130250627,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_5x5 Grid_Feature_5_Bet_88",
+            "entries": [
+                {
+                    "value": 163792556,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_1_Bet_88",
+            "entries": [
+                {
+                    "value": 117511306,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_2_Bet_88",
+            "entries": [
+                {
+                    "value": 146450113,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_3_Bet_88",
+            "entries": [
+                {
+                    "value": 196606956,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_4_Bet_88",
+            "entries": [
+                {
+                    "value": 246694237,
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "name": "FreeGame_Wild_Appears_Trigger_Constant_6x5 Grid_Feature_5_Bet_88",
+            "entries": [
+                {
+                    "value": 307167755,
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

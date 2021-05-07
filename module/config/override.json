@@ -1,0 +1,473 @@
+{
+    "version": "1.00",
+    "showPrograms": {
+        "enabled": false,
+        "programs": [
+            {
+                "name": "Losing Spin",
+                "values": [1, 10, 1, 8, 1]
+            },
+            {
+                "name": "Smallest win",
+                "values": [ 19,	13,	4,	19,	12 ]
+            },
+            {
+                "name": "Winning spin (no game specific tune) – no coin shower",
+                "values": [19, 13, 4, 19, 12]
+            },
+            {
+                "name": "(NA) Winning spin (no game specific tune) – coin shower",
+                "values": [1, 10, 1, 8, 1]
+            },
+            {
+                "name": "(NA) Anticipation spin (does not trigger a feature)",
+                "values": [1, 10, 1, 8, 1]
+            },
+            {
+                "name": "Win with game specific tune (usually wild wins) – no coin shower",
+                "values": [ 1,	3,	4,	19,	12, 5451, 17512001 ]
+            },
+            {
+                "name": "Win with game specific tune (usually wild wins) – coin shower",
+                "values": [24,	3,	1,	9,	1, 7101, 17512001, "?" ]
+            },
+            {
+                "name": "Feature trigger – no coin shower",
+                "values": [16,	15,	13,	6,	17]
+            },
+            {
+                "name": "Feature Trigger - coin shower",
+                "values": [16,	15,	13,	22,	16]
+            },
+            {
+                "name": "Feature trigger with game specific tune – no coin shower",
+                "values": [16,	15,	8,	3,	3, 5451, 17512001]
+            },
+            {
+                "name": "Feature trigger with Game specific tune - coin shower",
+                "values": [16,	15,	26,	3,	28, 8806, 17512001]
+            },
+            {
+                "name": "5 of kind -- Pic1 symbol (Max Bet-Upgraded Symbols)",
+                "values": [24,	6,	1,	9,	1]
+            },
+            {
+                "name": "5 of kind -- Pic2 symbol (Max Bet-Upgraded Symbols)",
+                "values": [13,	16,	18,	6,	7]
+            },
+            {
+                "name": "5 of kind -- Pic3 symbol (Max Bet-Upgraded Symbols)",
+                "values": [7,6,	9,	6,	2]
+            },
+            {
+                "name": "5 of kind -- Pic4 symbol (Max Bet-Upgraded Symbols)",
+                "values": [23,	26,	15,	20,	4]
+            },
+            {
+                "name": "5 of kind -- Pic5 symbol (Max Bet-Upgraded Symbols)",
+                "values": [10,	24,	6,	26,	27]
+            },
+            {
+                "name": "5 of kind -- Scatter symbol",
+                "values": [17,	23,	14,	14,	17]
+            },
+            {
+                "name": "5 of kind -- A symbol",
+                "values": [5,	18,	1,	19,	27]
+            },
+            {
+                "name": "5 of kind -- K symbol",
+                "values": [7,	21,	7,	7,	0]
+            },
+            {
+                "name": "5 of kind -- Q symbol",
+                "values": [3,	15,	20,	13,	5]
+            },
+            {
+                "name": "5 of kind -- J symbol",
+                "values": [8,	24,	13,	13,	9]
+            },
+            {
+                "name": "5 of kind -- Nine symbol",
+                "values": [9,	13,	4,	10,	10]
+            },
+            {
+                "name": "5 of kind -- Ten symbol",
+                "values": [23,	12,	9,	8,	11]
+            },
+            {
+                "name": "5 of kind -- Pic1 symbol (First Bet- Non-Upgraded Symbols)",
+                "values": [24,	6,	1,	9,	1]
+            },
+            {
+                "name": "5 of kind -- Pic2 symbol (First Bet- Non-Upgraded Symbols)",
+                "values": [13,	16,	18,	6,	7]
+            },
+            {
+                "name": "5 of kind -- Pic3 symbol (First Bet- Non-Upgraded Symbols)",
+                "values": [7,6,	9,	6,	2]
+            },
+            {
+                "name": "5 of kind -- Pic4 symbol (First Bet- Non-Upgraded Symbols)",
+                "values": [23,	26,	15,	20,	4]
+            },
+            {
+                "name": "5 of kind -- Pic5 symbol (First Bet- Non-Upgraded Symbols)",
+                "values": [10,	24,	6,	26,	27]
+            },
+            {
+                "name": "Winning Spin: WIN >= 25x and WIN <35x Total Bet and TOTAL WIN >= 1000 - Max Bet",
+                "values": [24,	3,	1,	20,	5, 8701, 17512001, "?"]
+            },
+            {
+                "name": "Winning Spin: WIN >= 35x and WIN <50x Total Bet and TOTAL WIN >= 3500 - Max Bet",
+                "values": [24,	3,	1,	9,	1, 5451, 17512001, "?"]
+            },
+            {
+                "name": "Feature trigger +(Select Option 6x5 + Option 1) Winning Spin on the first spin: WIN >= 25x and WIN <35x Total Bet and TOTAL WIN >= 1000 - Max Bet",
+                "values": [
+                   16,	15,	13,	6,	17, 26000000,
+                   13, 0, 23, 72, 0, 36, 2700000000, 0
+                ]
+            },
+            {
+                "name": "Feature trigger +(Select Option 6x5 + Option 1) Winning Spin on the first spin: WIN >= 35x and WIN <50x Total Bet and TOTAL WIN >= 3500 - Max Bet",
+                "values": [
+                   16,	15,	13,	6,	17, 26000000,
+                   5,	3,	4,	12,	3 , 10, 2700000000, 0
+                ]
+            },
+            {
+                "name": "A gaffe key to force a jackpot from the base game with another win generated by any symbol(J win + Grand Jackpot) Grand Jackpot from the base game with Jack win",
+                "values": [8,	2,	12,	8,	6, "?", 15000000, 17000000 , 17000000 , 2000, "?"]
+            },
+            {
+                "name": "Grand Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [23, 57, 68, 3, 10, 15000000,  17000000 , 17000000 , 2000, "?"]
+            },
+            {
+                "name": "Major Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [23, 57, 68, 3, 10, 15000000, 36000000 , 36000000 , 35360000, "?"]
+            },
+            {
+                "name": "Minor Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [23, 57, 68, 3, 10, 15000000, 72000000 , 72000000 , 72000000, "?"]
+            },
+            {
+                "name": "Mini Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [23, 57, 68, 3, 10, 15000000, 106000000 , 106000000 , 106000000, "?"]
+            },
+            {
+                "name": "Feature trigger + (Select Option 5) + Grand Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    36, 149, 162, 3, 41, "?" ,  15000000, 17000000 , 17000000 , 2000, "?" ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 5) + Major Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [ 
+                    16,	15,	13,	6,	3, "?",
+                    36, 149, 162, 3, 41,  "?",  15000000,  36000000 , 36000000 , 35360000, "?"]
+            },
+            {
+                "name": "Feature trigger + (Select Option 5) + Minor Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    36, 149, 162, 3, 41, "?", 15000000,  72000000 , 72000000 , 72000000, "?"
+                ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 5) + Mini Jackpot -- Each Bet Bracket, Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    36, 149, 162, 3, 41, "?", 15000000,  106000000 , 106000000 , 106000000, "?"
+                ]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5) + (Select option 5) + coin shower win on 1st spin - (Max Bet)",
+                "values": [16,	15,	13,	6,	3, "?", 0,	35,	30,	3,	1, 8, 2700000000, "?" ]
+            },
+            {
+                "name": "(NA) Feature trigger + Anticipation spin",
+                "values": [1, 10, 1, 8, 1]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5) Retrigger ( On the first spin) - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 17,	23,	0,	14,	15]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5) + (Select Option 1) Retrigger ( On the last spin) - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 4, 17, 15,	8,	9 ,"?", 4, 17, 15,	8,	9,"?", 4, 17, 15,	8,	9, "?", 4, 17, 15,	8,	9, "?", 4, 17, 15,	8,	9, "?", 17,	23,	0,	14,	15]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5) (Select Option 5) Win with a game-specific tune (usually wild wins)- Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 0,	35,	30,	3,	1, 8, 2700000000]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5) (Select Option 4) (NA)coin shower win (without a game-specific tune) + coin shower win (with a game-specific tune) + coin shower win (with feature retrigger)- Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    4, 17, 15,	8,	9 ,"?",
+                    0,	35,	30,	3,	1, 8, 2700000000, 0, "?",
+                    18,	20,	54,	4,	19, 92, 2700000000, 0, "?"
+                ]
+            },
+            {
+                "name": "Feature trigger + ( Select Option 6x5) + (Select Option 5) Losing Spin ( On the last spin) - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 15,	48,	11,	8, 15, "?", 4, 17, 15,	8,	9]
+            },
+            {
+                "name": "Feature trigger + ( Select Option 6x5) + (Select Option 5) Winning Spin ( On the last spin) - Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?", 4, 17, 15,	8,	9 ,"?", 15,	48,	11,	8, 15, 0, 2700000000, 0
+                ]
+            },
+            {
+                "name": "Feature trigger + ( Select Option 6x5) + (Select Option 1) Coin Shower ( On the last spin) - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?",
+                    4, 17, 15,	8,	9 ,"?",
+                    4, 17, 15,	8,	9 ,"?",
+                    4, 17, 15,	8,	9 ,"?",
+                    4, 17, 15,	8,	9 ,"?",
+                    4, 17, 15,	8,	9 ,"?",
+                    0, 35,	30,	3,	1, 8, 2700000000, 0, "?"
+                ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 6x5) + all losing spins - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?",  4, 17, 15, 8, 9 ,"?", 4, 17, 15, 8, 9, "?",  4, 17, 15, 8, 9, "?",  4, 17, 15, 8, 9, "?",  4, 17, 15, 8, 9, "?", 4, 17, 15, 8, 9, "?"]
+            },
+            {
+                "name": "Feature triggering with multiple wins - Max Bet",
+                "values": [
+                    17,	14,	26,	6,	3, "?"
+                ]
+            },
+            {
+                "name": "Largest Win - Option 3x5 + Option 5 - Max Bet",
+                "values": [
+                    16,	15,	26,	3,	16, 8806 ,26928320, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3	,25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?",
+                   5,	3,	25,	3,	1, 90, 54000000, 17000000 , 17000000 , 2000, 1, "?"
+                ]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5) + (Select option 5) + Multiplier and Retrigger on last spin - (Max Bet)",
+                "values": [16,	15,	8,	3,	3, 5451, 17512001, "?",4, 17, 15, 8, 9 ,"?", 17,	22,	0,	4,	15, 8, 2700000000, 1186, "?" ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 6x5) + (Select Option 5 ) 1 Extra Free Game - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 0,	35,	30,	3,	1, 8, 2700000000, 1188, "?" ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 6x5) + (Select Option 5 ) 2 Extra Free Game - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 0,	35,	30,	3,	1, 8, 2700000000, 2288, "?" ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 6x5) + (Select Option 5 ) 3 Extra Free Game - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 0,	35,	30,	3,	1, 8, 2700000000, 3187, "?" ]
+            },
+            {
+                "name": "Grand Jackpot + Feature Trigger from Base Game- [Feature Trigger with Jackpot Feature (In the same spin)] Max Bet",
+                "values": [16,	15,	8,	3,	3, 3, 15000000,  17000000 , 17000000 , 2000]
+            },
+            {
+                "name": "Feature trigger + (Select 6x5)(Select option 5) + Retrigger + Retrigger",
+                "values": [16,	15,	13,	6,	3, "?", 17,	23,	0,	14,	15, "?", 17,	23,	0,	14,	15]
+            },
+            {
+                "name": "Wild on Reel 2",
+                "values": [10,	3,	5,	11,	15 ]
+            },
+            {
+                "name": "Wild on Reel 3",
+                "values": [10,	13,	25,	11,	15 ]
+            },
+            {
+                "name": "Wild on Reel 4",
+                "values": [10,	13,	5,	3,	15 ]
+            },
+            {
+                "name": "Wild on Reel 2 & Reel 3 (Multiplier 1)",
+                "values": [10, 3, 25, 11, 15, 1, 17512001 ]
+            },
+            {
+                "name": "Wild on Reel 2 & Reel 3 (Multiplier 2)",
+                "values": [10, 3, 25, 11, 15, 5451, 17512001 ]
+            },{
+                "name": "Wild on Reel 2 & Reel 3(Multiplier 3)",
+                "values": [10, 3, 25, 11, 15, 7101, 17512001 ]
+            },{
+                "name": "Wild on Reel 2 & Reel 3(Multiplier 5)",
+                "values": [10, 3, 25, 11, 15, 7976, 17512001 ]
+            },{
+                "name": "Wild on Reel 2 & Reel 3(Multiplier 8)",
+                "values": [10, 3, 25, 11, 15, 8576, 17512001 ]
+            },{
+                "name": "Wild on Reel 2 & Reel 3(Multiplier 10)",
+                "values": [10, 3, 25, 11, 15, 8701, 17512001 ]
+            },{
+                "name": "Wild on Reel 2 & Reel 3(Multiplier 15)",
+                "values": [10, 3, 25, 11, 15, 8789, 17512001 ]
+            },{
+                "name": "Wild on Reel 2 & Reel 3(Multiplier 30)",
+                "values": [10, 3, 25, 11, 15, 8806, 17512001 ]
+            },
+            {
+                "name": "Wild on Reel 2 & Reel 4",
+                "values": [10, 3, 5, 3, 15 ]
+            },
+            {
+                "name": "Wild on Reel 3 & Reel 4",
+                "values": [10, 14, 25, 3, 15 ]
+            },
+            {
+                "name": "Wild on Reel 2, 3 & Reel 4",
+                "values": [10, 3, 25, 3, 15, 7101, 17512001 ]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Pic1 symbol",
+                "values": [24,	6,	1,	3,	1, "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Pic2 symbol",
+                "values": [13,	3,	18,	6,	7, "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Pic3 symbol",
+                "values": [7,3,	3,	6,	2,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Pic4 symbol",
+                "values": [23,	3,	24,	20,	4,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Pic5 symbol",
+                "values": [10,	24,	6,	3,	27,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- A symbol",
+                "values": [6,	3,	1,	19,	27,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- K symbol",
+                "values": [7,	21,	7,	3,	0,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Q symbol",
+                "values": [3,	3,	26,	13,	5,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- J symbol",
+                "values": [8,	3,	12,	3,	9,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Nine symbol",
+                "values": [9,	13,	24,	10,	10,  "?", 17512001]
+            },
+            {
+                "name": "5 of kind with wilds substituting -- Ten symbol",
+                "values": [23,	3,	7,	8,	11,  "?", 17512001]
+            },
+            {
+                "name": "Feature Trigger with Game specific tune (Win >10x)",
+                "values": [44,	35,	51,	43,	42, "?"]
+            },
+            {
+                "name": "Feature Trigger with Game specific tune (Win <10x)",
+                "values": [10, 5, 17, 17, 13]
+            },
+            {
+                "name": "Feature Trigger(3-5 FG's) (Select Option 4) + (Select option 3) + 2 Wild substitution with 8x on both wild's i.e. 64- Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 39, 32, 127,	11,	32,  60, 100, 2700000000, 0, "?"]
+            },
+            {
+                "name": "Feature Trigger(5-10 FG's) (Select Option 3) + (Select option 3) + 2 Wild substitution with 5x on both wild's i.e. 25- Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 39, 32, 127,	11,	32,  50, 70, 2700000000, 0, "?"]
+            },
+            {
+                "name": "Feature Trigger(8-15 FG's) (Select Option 2) + (Select option 3) + 2 Wild substitution with 4x on both wild's i.e. 16- Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 39, 32, 127,	11,	32,  20, 30, 2700000000, 0, "?"]
+            },
+            {
+                "name": "Jackpot triggered on the last spin of the Feature (with multiple wins)( Select Option 4) + (Select Option 1) - Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    47, 149, 51, 2, 26, "?", 15000000, 72000000 , 72000000 , 72000000, 8
+                ]
+            },
+            {
+                "name": "Jackpot triggered with 2 Wild multipliers i.e. 2 and 4 (Select Option 4) + (Select option 1) -- Each Bet Bracket, Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    36, 149, 16, 13, 41, 55, 20, 15000000, 72000000 , 72000000 , 72000000, 0 , "?" ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 4) + (Select option 3) + WildX5 on Reel 2, WildX4 on Reel 4 - Max Bet",
+                "values": [16,	15,	13,	6,	3, "?", 39, 32, 127,	11,	32,  8, 55, 2700000000, 0, "?" ]
+            },
+            {
+                "name": "Feature trigger + ( Select Option 4) + (Select Option 1) Retrigger ( On the first spin), 1 Extra Free Game - 1st Bet",
+                "values": [16,	15,	13,	6,	3, "?", 43, 151, 51, 2, 26, 8, 6200, "?" ]
+            },
+            {
+                "name": "Feature trigger + (Select Option 3) Minor Jackpot Trigger + Minor Jackpot (Max Bet)",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    36, 149, 162, 3, 41, 15000000,  72000000 , 72000000 , 72000000, "?",
+                    35, 149, 162, 3, 41, 15000000, 72000000 , 32, 53000000 , 53000000, "?"
+                ]
+            },
+            {
+                "name": "Feature trigger + ( Select Option 4) + (Select Option 1) Jackpot + Retrigger ( On the last spin) - Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    43, 149, 51, 2, 26, "?", 15000000, 72000000 , 72000000 , 72000000, 8
+                ]
+            },
+            {
+                "name": "Feature trigger + ( Select Option 4) + (Select Option 1) Minor Jackpot ( On the last spin) - Max Bet",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    3, 139, 144, 17, 26 ,"?",
+                    36, 149, 162, 3, 41, 15000000, "?",  72000000 , 72000000 , 72000000
+                ]
+            },
+            {
+                "name": "Feature trigger (Option 4) + 5 of kind with wilds substituting -- Nine symbol",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    38,	3,	17, 53, 19]
+            },
+            {
+                "name": "Left to right scatter",
+                "values": [16,	15,	13,	6,	17]
+            },
+            {
+                "name": "Feature trigger (Option 6x5) + 5 of kind with wilds substituting -- PIC4 symbol",
+                "values": [
+                    16,	15,	13,	6,	3, "?",
+                    21,	70,	13,	20,	26, 8]
+            }
+        ]
+    }
+}

@@ -1,0 +1,2292 @@
+{
+    "reelStripDefinitions": [
+        {
+            "name": "Reel 1",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC1"
+                }
+            ]
+        },
+        {
+            "name": "Reel 2",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                }
+            ]
+        },
+        {
+            "name": "Reel 3",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                }
+            ]
+        },
+        {
+            "name": "Reel 4",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 5",
+            "stops": [
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 6",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC1"
+                }
+            ]
+        },
+        {
+            "name": "Reel 7",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                }
+            ]
+        },
+        {
+            "name": "Reel 8",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                }
+            ]
+        },
+        {
+            "name": "Reel 9",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 10",
+            "stops": [
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 11",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC1"
+                }
+            ]
+        },
+        {
+            "name": "Reel 12",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                }
+            ]
+        },
+        {
+            "name": "Reel 13",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                }
+            ]
+        },
+        {
+            "name": "Reel 14",
+            "stops": [
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 15",
+            "stops": [
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3"
+                }
+            ]
+        },
+        {
+            "name": "Reel 16",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC1"
+                }
+            ]
+        },
+        {
+            "name": "Reel 17",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3_G"
+                }
+            ]
+        },
+        {
+            "name": "Reel 18",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                }
+            ]
+        },
+        {
+            "name": "Reel 19",
+            "stops": [
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 20",
+            "stops": [
+                {
+                    "name": "PIC1"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 21",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC1_G"
+                }
+            ]
+        },
+        {
+            "name": "Reel 22",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3_G"
+                }
+            ]
+        },
+        {
+            "name": "Reel 23",
+            "stops": [
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "SCAT"
+                }
+            ]
+        },
+        {
+            "name": "Reel 24",
+            "stops": [
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "WILD"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        },
+        {
+            "name": "Reel 25",
+            "stops": [
+                {
+                    "name": "PIC1_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "KING"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "SCAT"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "JACK"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "NINE"
+                },
+                {
+                    "name": "PIC4_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC5_G"
+                },
+                {
+                    "name": "QUEEN"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "PIC2_G"
+                },
+                {
+                    "name": "TEN"
+                },
+                {
+                    "name": "PIC3_G"
+                },
+                {
+                    "name": "ACE"
+                },
+                {
+                    "name": "KING"
+                }
+            ]
+        }
+    ]
+}

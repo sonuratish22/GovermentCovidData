@@ -1,0 +1,404 @@
+{
+    "version": "1.00",
+    "audio": {
+    "active": "stereo",
+    "editable": true,
+    "gameWritable": false,
+    "serverOnly": false,
+    "speakerModes": [
+        {
+        "name": "stereo",
+        "speakerLevels": [{
+            "levels": [0.8, 0.0, 0.0, 0.0, 0.4, 0.0],
+            "name": "frontLeft"
+            }, {
+            "levels": [ 0.0, 0.8, 0.0, 0.0, 0.0, 0.4],
+            "name": "frontRight"
+            }
+        ]
+        }, {
+        "name": "5.1",
+        "speakerLevels": [{
+            "levels": [0.8, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "name": "frontLeft"
+            },
+            {
+            "levels": [0.0, 0.8, 0.0, 0.0, 0.0, 0.0],
+            "name": "frontRight"
+            },
+            {
+            "levels": [0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+            "name": "frontCenter"
+            },
+            {
+            "levels": [0.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+            "name": "lowFrequency"
+            },
+            {
+            "levels": [0.0, 0.0, 1.0, 0.0, 0.0, 0.0],
+            "name": "backLeft"
+            },
+            {
+            "levels": [0.0, 0.0, 0.0, 1.0, 0.0, 0.0],
+            "name": "backRight"
+            }
+        ]
+        }
+    ]
+    },
+    "buttonNames": {
+    "buttons": [
+        {
+        "id": "Collect",
+        "name": "Cashout"
+        },
+        {
+        "id": "Play",
+        "name": "Play"
+        },
+        {
+        "id": "Service",
+        "name": "Service"
+        },
+        {
+        "id": "Gamble",
+        "name": "Gamble"
+        }
+    ],
+    "editable": true,
+    "gameWritable": false,
+    "serverOnly": false
+    },
+    "combinationTest": {
+    "editable": false,
+    "enabled": false,
+    "gameWritable": false,
+    "serverOnly": false
+    },
+    "configuredBetOptions": {
+    "active": "1 to 13",
+    "editable": false,
+    "gameWritable": false,
+    "serverOnly": false,
+    "betOptions": [{
+        "bets": [
+        { "amount": 500, "button": "Bet_1", "buttonName": "Bet x 1", "enabled": true },
+        { "amount": 1000, "button": "Bet_2", "buttonName": "Bet x 2", "enabled": true },
+        { "amount": 1500, "button": "Bet_3", "buttonName": "Bet x 3", "enabled": true },
+        { "amount": 2000, "button": "Bet_4", "buttonName": "Bet x 4", "enabled": true },
+        { "amount": 2500, "button": "Bet_5", "buttonName": "Bet x 5", "enabled": true },
+
+        { "amount": 5000, "button": "Bet_6", "buttonName": "Bet x 6", "enabled": true },
+        { "amount": 10000, "button": "Bet_7", "buttonName": "Bet x 7", "enabled": true },
+        { "amount": 15000, "button": "Bet_8", "buttonName": "Bet x 8", "enabled": true },
+        { "amount": 25000, "button": "Bet_9", "buttonName": "Bet x 10", "enabled": true },
+
+        { "amount": 50000, "button": "Bet_10", "buttonName": "Bet x 11", "enabled": true },
+        { "amount": 75000, "button": "Bet_11", "buttonName": "Bet x 12", "enabled": true },
+        { "amount": 100000, "button": "Bet_12", "buttonName": "Bet x 13", "enabled": true },
+        { "amount": 125000, "button": "Bet_13", "buttonName": "Bet x 14", "enabled": true }
+
+        ],
+        "description": "13 Bet Options",
+        "name": "1 to 13"
+    }]
+    },
+    "configuredBetToLineMapping": {
+		"betsToLine": [
+			{ "bet": 0, "line": 0 },
+			{ "bet": 1, "line": 1 },
+			{ "bet": 2, "line": 2 },
+			{ "bet": 3, "line": 3 },
+			{ "bet": 4, "line": 4 },
+			{ "bet": 5, "line": 4 },
+			{ "bet": 6, "line": 4 },
+			{ "bet": 7, "line": 4 },
+			{ "bet": 8, "line": 4 },
+            { "bet": 9, "line": 4 },
+            { "bet": 10, "line": 4 },
+            { "bet": 11, "line": 4 },
+            { "bet": 12, "line": 4 }
+		]
+	},
+    "configuredDenominations": {
+    "activeDenomination": 1,
+    "editable": false,
+    "gameWritable": false,
+    "mode": "Player",
+    "operatorDenominations": [{
+        "selection": 1
+    }],
+    "playerDenominations": [{
+        "selection": 1
+    }],
+    "selection": [1],
+    "serverOnly": false
+    },
+    "configuredDisplays": {
+    "count": 2,
+    "displays": [
+        { "id": "main" },
+        { "id": "buttondeck", "type": "XTVBD,Viridian" }
+    ],
+    "minimum": 1,
+    "verticalSync": 60
+    },
+    "configuredLanguages": {
+    "active": "en-us",
+    "default": "en-us",
+    "editable": true,
+    "gameWritable": true,
+    "languages": [{
+        "id": "en-us",
+        "enabled": true
+    }],
+    "serverOnly": false
+    },
+    "configuredLineOptions": {
+    "active": "cost 38 to 88",
+    "editable": false,
+    "gameWritable": false,
+    "serverOnly": false,
+    "lineOptions": [{
+        "description": "5 Reels",
+        "lines": [
+        {
+            "amount": 243,
+            "button": "Playline_1",
+            "cost": 38,
+            "enabled": true,
+            "reels": 5
+        },
+        {
+            "amount": 243,
+            "button": "Playline_2",
+            "cost": 58,
+            "enabled": true,
+            "reels": 5
+        },
+        {
+            "amount": 243,
+            "button": "Playline_3",
+            "cost": 68,
+            "enabled": true,
+            "reels": 5
+        },
+        {
+            "amount": 243,
+            "button": "Playline_4",
+            "cost": 78,
+            "enabled": true,
+            "reels": 5
+        },
+        {
+            "amount": 243,
+            "button": "Playline_5",
+            "cost": 88,
+            "enabled": true,
+            "reels": 5
+        }
+        ],
+        "name": "cost 38 to 88"
+    }]
+    },
+    "configuredMeters": {
+    "editable": true,
+    "gameWritable": true,
+    "serverOnly": false,
+    "meters": [{
+        "hidden": true,
+        "name": "Mystery Trigger"
+    }]
+    },
+    "configuredVariations": {
+    "active": "Variation 03",
+    "editable": false,
+    "gameWritable": false,
+    "serverOnly": false,
+    "variations": [
+        {
+            "id": "01",
+            "directory": "Variation/01",
+            "maximumWinCredits": 405320,
+            "name": "Variation 01",
+            "returnToPlayer": {
+            "minimum": 89.022,
+            "maximum": 89.060,
+            "weightedAverages": 89.06
+            }
+        },
+        {
+            "id": "02",
+            "directory": "Variation/02",
+            "maximumWinCredits": 405320,
+            "name": "Variation 02",
+            "returnToPlayer": {
+            "minimum": 91.004,
+            "maximum": 91.042,
+            "weightedAverages": 91.04
+            }
+        },
+        {
+            "id": "03",
+            "directory": "Variation/03",
+            "maximumWinCredits": 405320,
+            "name": "Variation 03",
+            "returnToPlayer": {
+            "minimum": 93.016,
+            "maximum": 93.055,
+            "weightedAverages": 93.06
+            }
+        }]
+    },
+    "configuredWeightedAverages": {
+    "editable": false,
+    "gameWritable": false,
+    "serverOnly": true,
+    "weightedAverages": [{
+        "id": "03",
+        "weights": [
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0]
+        ]
+    }]
+    },
+    "gameInfo": {
+    "editable": false,
+    "gameWritable": false,
+    "mathPackageId": {
+        "id": "LP0135-00",
+        "issue": "1",
+        "date": "11/21/18"
+    },
+    "name": "5DragonsRisingJackpots",
+    "serverOnly": false,
+    "version": "1S166999"
+    },
+    "configuredProgressives": {
+        "editable": false,
+        "gameWritable": false,
+        "progressives": [
+            {
+                "name": "5DragonsRising",
+                "denomination": 1,
+                "levels": [
+                    {
+                        "id": 0,
+                        "name": "Grand",
+                        "behavior": "Standard",
+                        "initialValue": 444444000,
+                        "resetValue": 444444000,
+                        "maxValue": 4999999500,
+                        "increment": 0.1,
+                        "hiddenIncrement": 0.0,
+                        "type": "WAP"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Major",
+                        "behavior": "Standard",
+                        "initialValue": 44444000,
+                        "resetValue": 44444000,
+                        "maxValue": 4999999500,
+                        "increment": 0.2,
+                        "hiddenIncrement": 0.0,
+                        "type": "WAP"
+                    }
+                ]
+            }
+        ],
+        "serverOnly": true
+    },
+    "configuredInitialState": {
+        "editable": true,
+        "gameWritable": true,
+        "initialStates": [
+            {
+                "reelStops": [
+                    20,	12,	11,	12,	13
+                ]
+            }
+        ],
+        "serverOnly": false
+    },
+    "configuredReplayStates": [{
+        "betIndex": 0,
+        "lineIndex": 0,
+        "editable": true,
+        "firstGame": true,
+        "gameWritable": true,
+        "reelStops": [
+            20,	12,	11,	12,	13
+        ],
+        "serverOnly": false,
+        "winAmount": 0
+    }],
+    "configuredBetBrackets": {
+        "alternateLevels": [
+            {
+                "id": 0,
+                "name": "Grand_Bracket2",
+                "behavior": "Standard",
+                "hiddenIncrement": 0,
+                "increment": 0.1,
+                "initialValue": 4444440000,
+                "maxValue": 49999995000,
+                "resetValue": 4444440000,
+                "type": "WAP"
+            },
+            {
+                "id": 1,
+                "name": "Major_Bracket2",
+                "behavior": "Standard",
+                "hiddenIncrement": 0,
+                "increment": 0.2,
+                "initialValue": 444440000,
+                "maxValue": 49999995000,
+                "resetValue": 444440000,
+                "type": "WAP"
+            },
+            {
+                "id": 0,
+                "name": "Grand_Bracket3",
+                "behavior": "Standard",
+                "hiddenIncrement": 0,
+                "increment": 0.1,
+                "initialValue": 22222200000,
+                "maxValue": 249999975000,
+                "resetValue": 22222200000,
+                "type": "WAP"
+            },
+            {
+                "id": 1,
+                "name": "Major_Bracket3",
+                "behavior": "Standard",
+                "hiddenIncrement": 0,
+                "increment": 0.2,
+                "initialValue": 2222200000,
+                "maxValue": 249999975000,
+                "resetValue": 2222200000,
+                "type": "WAP"
+            }
+        ],
+        "brackets": [
+            {
+                "firstBetIndex": 1,
+                "levels": ["0", "1"]
+            },
+            {
+                "firstBetIndex": 6,
+                "levels": ["Grand_Bracket2", "Major_Bracket2"]
+            },
+            {
+                "firstBetIndex": 10,
+                "levels": ["Grand_Bracket3", "Major_Bracket3"]
+            }
+        ],
+        "editable": false,
+        "gameWritable": false,
+        "serverOnly": true
+    }
+}

@@ -1,0 +1,556 @@
+{
+    "name": "freegames_6x5_bet_58",
+    "reelStripConfig": "freegames_6x5_bet_58",
+    "version": "1.00",
+    "configuredCombinations": [
+        {
+          "combinationGroups": [
+            {
+              "combinations": [
+                {
+                  "award": 1000,
+                  "id": "5 PIC1",
+                  "symbols": [
+                    {
+                      "name": "PIC1",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 100,
+                  "id": "4 PIC1",
+                  "symbols": [
+                    {
+                      "name": "PIC1",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 50,
+                  "id": "3 PIC1",
+                  "symbols": [
+                    {
+                      "name": "PIC1",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 800,
+                  "id": "5 PIC2",
+                  "symbols": [
+                    {
+                      "name": "PIC2",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 100,
+                  "id": "4 PIC2",
+                  "symbols": [
+                    {
+                      "name": "PIC2",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 35,
+                  "id": "3 PIC2",
+                  "symbols": [
+                    {
+                      "name": "PIC2",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                  {
+                    "award": 800,
+                    "id": "5 PIC3",
+                    "symbols": [
+                      {
+                        "name": "PIC3",
+                        "repeats": 5
+                      }
+                    ]
+                  },
+                  {
+                    "award": 100,
+                    "id": "4 PIC3",
+                    "symbols": [
+                      {
+                        "name": "PIC3",
+                        "repeats": 4
+                      }
+                    ]
+                  },
+                  {
+                    "award": 30,
+                    "id": "3 PIC3",
+                    "symbols": [
+                      {
+                        "name": "PIC3",
+                        "repeats": 3
+                      }
+                    ]
+                  },
+                  {
+                    "award": 300,
+                    "id": "5 PIC4",
+                    "symbols": [
+                      {
+                        "name": "PIC4",
+                        "repeats": 5
+                      }
+                    ]
+                  },
+                  {
+                    "award": 50,
+                    "id": "4 PIC4",
+                    "symbols": [
+                      {
+                        "name": "PIC4",
+                        "repeats": 4
+                      }
+                    ]
+                  },
+                  {
+                    "award": 20,
+                    "id": "3 PIC4",
+                    "symbols": [
+                      {
+                        "name": "PIC4",
+                        "repeats": 3
+                      }
+                    ]
+                  },
+                  {
+                    "award": 500,
+                    "id": "5 PIC5_G",
+                    "symbols": [
+                      {
+                        "name": "PIC5_G",
+                        "repeats": 5
+                      }
+                    ]
+                  },
+                  {
+                    "award": 75,
+                    "id": "4 PIC5_G",
+                    "symbols": [
+                      {
+                        "name": "PIC5_G",
+                        "repeats": 4
+                      }
+                    ]
+                  },
+                  {
+                    "award": 30,
+                    "id": "3 PIC5_G",
+                    "symbols": [
+                      {
+                        "name": "PIC5_G",
+                        "repeats": 3
+                      }
+                    ]
+                  },
+                {
+                  "award": 200,
+                  "id": "5 ACEs",
+                  "symbols": [
+                    {
+                      "name": "ACE",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 30,
+                  "id": "4 ACEs",
+                  "symbols": [
+                    {
+                      "name": "ACE",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 10,
+                  "id": "3 ACEs",
+                  "symbols": [
+                    {
+                      "name": "ACE",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 200,
+                  "id": "5 KINGs",
+                  "symbols": [
+                    {
+                      "name": "KING",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 20,
+                  "id": "4 KINGs",
+                  "symbols": [
+                    {
+                      "name": "KING",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 10,
+                  "id": "3 KINGs",
+                  "symbols": [
+                    {
+                      "name": "KING",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 100,
+                  "id": "5 QUEENs",
+                  "symbols": [
+                    {
+                      "name": "QUEEN",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 15,
+                  "id": "4 QUEENs",
+                  "symbols": [
+                    {
+                      "name": "QUEEN",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 10,
+                  "id": "3 QUEENs",
+                  "symbols": [
+                    {
+                      "name": "QUEEN",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 100,
+                  "id": "5 JACKs",
+                  "symbols": [
+                    {
+                      "name": "JACK",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 15,
+                  "id": "4 JACKs",
+                  "symbols": [
+                    {
+                      "name": "JACK",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 10,
+                  "id": "3 JACKs",
+                  "symbols": [
+                    {
+                      "name": "JACK",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 100,
+                  "id": "5 TENs",
+                  "symbols": [
+                    {
+                      "name": "TEN",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 15,
+                  "id": "4 TENs",
+                  "symbols": [
+                    {
+                      "name": "TEN",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 5,
+                  "id": "3 TENs",
+                  "symbols": [
+                    {
+                      "name": "TEN",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 100,
+                  "id": "5 NINEs",
+                  "symbols": [
+                    {
+                      "name": "NINE",
+                      "repeats": 5
+                    }
+                  ]
+                },
+                {
+                  "award": 10,
+                  "id": "4 NINEs",
+                  "symbols": [
+                    {
+                      "name": "NINE",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 5,
+                  "id": "3 NINEs",
+                  "symbols": [
+                    {
+                      "name": "NINE",
+                      "repeats": 3
+                    }
+                  ]
+                }
+              ],
+              "type": "anyline"
+            },
+            {
+              "combinations": [
+                {
+                  "award": 5,
+                  "id": "3 SCATs",
+                  "feature": "FreeSpins",
+                  "multiplyWin": true,
+                  "symbols": [
+                    {
+                      "name": "SCAT",
+                      "repeats": 3
+                    }
+                  ]
+                },
+                {
+                  "award": 10,
+                  "id": "4 SCATs",
+                  "feature": "FreeSpins",
+                  "multiplyWin": true,
+                  "symbols": [
+                    {
+                      "name": "SCAT",
+                      "repeats": 4
+                    }
+                  ]
+                },
+                {
+                  "award": 50,
+                  "id": "5 SCATs",
+                  "feature": "FreeSpins",
+                  "multiplyWin": true,
+                  "symbols": [
+                    {
+                      "name": "SCAT",
+                      "repeats": 5
+                    }
+                  ]
+                }
+              ],
+              "type": "scatter",
+              "subType": "left-to-right"
+            }
+          ]
+        }
+    ],
+    "configuredPlayLines": {
+        "useReelPower": true,
+        "presentWins": "sequence"
+    },
+    "configuredReelStrips": [
+        {
+            "betIndices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6, 7, 8, 9, 10, 11, 12
+            ],
+            "lineIndices": [
+                1
+            ],
+            "numberOfRows": 6,
+            "reelStrips": [
+                "FG Reel 1",
+                "FG Reel 2",
+                "FG Reel 3",
+                "FG Reel 4",
+                "FG Reel 5"
+            ]
+        }
+    ],
+    "substitutions": [
+      {
+          "name": "WILD",
+          "targetName": "PIC1"
+      },
+      {
+          "name": "WILD",
+          "targetName": "PIC2"
+      },
+      {
+          "name": "WILD",
+          "targetName": "PIC3"
+      },
+      {
+          "name": "WILD",
+          "targetName": "PIC4"
+      },
+      {
+          "name": "WILD",
+          "targetName": "PIC5_G"
+      },
+      {
+          "name": "WILD",
+          "targetName": "ACE"
+      },
+      {
+          "name": "WILD",
+          "targetName": "KING"
+      },
+      {
+          "name": "WILD",
+          "targetName": "QUEEN"
+      },
+      {
+          "name": "WILD",
+          "targetName": "JACK"
+      },
+      {
+          "name": "WILD",
+          "targetName": "TEN"
+      },
+      {
+          "name": "WILD",
+          "targetName": "NINE"
+      }
+  ],
+  "symbols": [
+      {
+          "id": "1",
+          "name": "WILD"
+      },
+      {
+          "id": "2",
+          "name": "PIC1"
+      },
+      {
+          "id": "3",
+          "name": "PIC2"
+      },
+      {
+          "id": "4",
+          "name": "PIC3"
+      },
+      {
+          "id": "5",
+          "name": "PIC4"
+      },
+      {
+          "id": "6",
+          "name": "PIC5_G"
+      },
+      {
+          "id": "7",
+          "name": "ACE"
+      },
+      {
+          "id": "8",
+          "name": "KING"
+      },
+      {
+          "id": "9",
+          "name": "QUEEN"
+      },
+      {
+          "id": "10",
+          "name": "JACK"
+      },
+      {
+          "id": "11",
+          "name": "TEN"
+      },
+      {
+          "id": "12",
+          "name": "NINE"
+      },
+      {
+          "id": "13",
+          "name": "SCAT"
+      },
+      {
+          "id": "14",
+          "name": "WILD1"
+      },
+      {
+          "id": "15",
+          "name": "WILD2"
+      },
+      {
+          "id": "16",
+          "name": "WILD3"
+      },
+      {
+          "id": "17",
+          "name": "WILD4"
+      },
+      {
+          "id": "18",
+          "name": "WILD5"
+      },
+      {
+          "id": "19",
+          "name": "PIC1_G"
+      },
+      {
+          "id": "20",
+          "name": "PIC2_G"
+      },
+      {
+          "id": "21",
+          "name": "PIC3_G"
+      },
+      {
+          "id": "22",
+          "name": "PIC4_G"
+      },
+      {
+          "id": "23",
+          "name": "PIC5"
+      }
+  ]
+}

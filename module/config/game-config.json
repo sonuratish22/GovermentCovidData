@@ -1,0 +1,181 @@
+{
+	"name": "5dragonsrisingjackpots",
+	"variations": {
+		"var-01": {
+			"config": "configuration.json",
+			"slotConfig": {
+				"main": "main-slot.json",
+
+				"freegames_3x5_bet_38": "freegames_3x5_slot_bet_38.json",
+				"freegames_3x5_bet_58": "freegames_3x5_slot_bet_58.json",
+				"freegames_3x5_bet_68": "freegames_3x5_slot_bet_68.json",
+				"freegames_3x5_bet_78": "freegames_3x5_slot_bet_78.json",
+				"freegames_3x5_bet_88": "freegames_3x5_slot_bet_88.json",
+
+				"freegames_4x5_bet_38": "freegames_4x5_slot_bet_38.json",
+				"freegames_4x5_bet_58": "freegames_4x5_slot_bet_58.json",
+				"freegames_4x5_bet_68": "freegames_4x5_slot_bet_68.json",
+				"freegames_4x5_bet_78": "freegames_4x5_slot_bet_78.json",
+				"freegames_4x5_bet_88": "freegames_4x5_slot_bet_88.json",
+
+				"freegames_5x5_bet_38": "freegames_5x5_slot_bet_38.json",
+				"freegames_5x5_bet_58": "freegames_5x5_slot_bet_58.json",
+				"freegames_5x5_bet_68": "freegames_5x5_slot_bet_68.json",
+				"freegames_5x5_bet_78": "freegames_5x5_slot_bet_78.json",
+				"freegames_5x5_bet_88": "freegames_5x5_slot_bet_88.json",
+
+				"freegames_6x5_bet_38": "freegames_6x5_slot_bet_38.json",
+				"freegames_6x5_bet_58": "freegames_6x5_slot_bet_58.json",
+				"freegames_6x5_bet_68": "freegames_6x5_slot_bet_68.json",
+				"freegames_6x5_bet_78": "freegames_6x5_slot_bet_78.json",
+				"freegames_6x5_bet_88": "freegames_6x5_slot_bet_88.json"
+			},
+			"reelStripConfig": {
+				"main": "main_reelstrips_var_01.json",
+				"freegames_3x5_bet_38": "freegames_3x5_reelstrips_bet_38.json",
+				"freegames_3x5_bet_58": "freegames_3x5_reelstrips_bet_58.json",
+				"freegames_3x5_bet_68": "freegames_3x5_reelstrips_bet_68.json",
+				"freegames_3x5_bet_78": "freegames_3x5_reelstrips_bet_78.json",
+				"freegames_3x5_bet_88": "freegames_3x5_reelstrips_bet_88.json",
+
+				"freegames_4x5_bet_38": "freegames_4x5_reelstrips_bet_38.json",
+				"freegames_4x5_bet_58": "freegames_4x5_reelstrips_bet_58.json",
+				"freegames_4x5_bet_68": "freegames_4x5_reelstrips_bet_68.json",
+				"freegames_4x5_bet_78": "freegames_4x5_reelstrips_bet_78.json",
+				"freegames_4x5_bet_88": "freegames_4x5_reelstrips_bet_88.json",
+
+				"freegames_5x5_bet_38": "freegames_5x5_reelstrips_bet_38.json",
+				"freegames_5x5_bet_58": "freegames_5x5_reelstrips_bet_58.json",
+				"freegames_5x5_bet_68": "freegames_5x5_reelstrips_bet_68.json",
+				"freegames_5x5_bet_78": "freegames_5x5_reelstrips_bet_78.json",
+				"freegames_5x5_bet_88": "freegames_5x5_reelstrips_bet_88.json",
+
+				"freegames_6x5_bet_38": "freegames_6x5_reelstrips_bet_38.json",
+				"freegames_6x5_bet_58": "freegames_6x5_reelstrips_bet_58.json",
+				"freegames_6x5_bet_68": "freegames_6x5_reelstrips_bet_68.json",
+				"freegames_6x5_bet_78": "freegames_6x5_reelstrips_bet_78.json",
+				"freegames_6x5_bet_88": "freegames_6x5_reelstrips_bet_88.json"
+			},
+			"overrideConfig": "override.json",
+			"weightedTables": "weighted-tables-var-01.json"
+		},
+		"var-02": {
+			"config": "configuration.json",
+			"slotConfig": {
+				"main": "main-slot.json",
+				
+				"freegames_3x5_bet_38": "freegames_3x5_slot_bet_38.json",
+				"freegames_3x5_bet_58": "freegames_3x5_slot_bet_58.json",
+				"freegames_3x5_bet_68": "freegames_3x5_slot_bet_68.json",
+				"freegames_3x5_bet_78": "freegames_3x5_slot_bet_78.json",
+				"freegames_3x5_bet_88": "freegames_3x5_slot_bet_88.json",
+				
+				"freegames_4x5_bet_38": "freegames_4x5_slot_bet_38.json",
+				"freegames_4x5_bet_58": "freegames_4x5_slot_bet_58.json",
+				"freegames_4x5_bet_68": "freegames_4x5_slot_bet_68.json",
+				"freegames_4x5_bet_78": "freegames_4x5_slot_bet_78.json",
+				"freegames_4x5_bet_88": "freegames_4x5_slot_bet_88.json",
+				
+				"freegames_5x5_bet_38": "freegames_5x5_slot_bet_38.json",
+				"freegames_5x5_bet_58": "freegames_5x5_slot_bet_58.json",
+				"freegames_5x5_bet_68": "freegames_5x5_slot_bet_68.json",
+				"freegames_5x5_bet_78": "freegames_5x5_slot_bet_78.json",
+				"freegames_5x5_bet_88": "freegames_5x5_slot_bet_88.json",
+				
+				"freegames_6x5_bet_38": "freegames_6x5_slot_bet_38.json",
+				"freegames_6x5_bet_58": "freegames_6x5_slot_bet_58.json",
+				"freegames_6x5_bet_68": "freegames_6x5_slot_bet_68.json",
+				"freegames_6x5_bet_78": "freegames_6x5_slot_bet_78.json",
+				"freegames_6x5_bet_88": "freegames_6x5_slot_bet_88.json"
+			},
+			"reelStripConfig": {
+				"main": "main_reelstrips_var_02.json",
+				"freegames_3x5_bet_38": "freegames_3x5_reelstrips_bet_38.json",
+				"freegames_3x5_bet_58": "freegames_3x5_reelstrips_bet_58.json",
+				"freegames_3x5_bet_68": "freegames_3x5_reelstrips_bet_68.json",
+				"freegames_3x5_bet_78": "freegames_3x5_reelstrips_bet_78.json",
+				"freegames_3x5_bet_88": "freegames_3x5_reelstrips_bet_88.json",
+				
+				"freegames_4x5_bet_38": "freegames_4x5_reelstrips_bet_38.json",
+				"freegames_4x5_bet_58": "freegames_4x5_reelstrips_bet_58.json",
+				"freegames_4x5_bet_68": "freegames_4x5_reelstrips_bet_68.json",
+				"freegames_4x5_bet_78": "freegames_4x5_reelstrips_bet_78.json",
+				"freegames_4x5_bet_88": "freegames_4x5_reelstrips_bet_88.json",
+				
+				"freegames_5x5_bet_38": "freegames_5x5_reelstrips_bet_38.json",
+				"freegames_5x5_bet_58": "freegames_5x5_reelstrips_bet_58.json",
+				"freegames_5x5_bet_68": "freegames_5x5_reelstrips_bet_68.json",
+				"freegames_5x5_bet_78": "freegames_5x5_reelstrips_bet_78.json",
+				"freegames_5x5_bet_88": "freegames_5x5_reelstrips_bet_88.json",
+				
+				"freegames_6x5_bet_38": "freegames_6x5_reelstrips_bet_38.json",
+				"freegames_6x5_bet_58": "freegames_6x5_reelstrips_bet_58.json",
+				"freegames_6x5_bet_68": "freegames_6x5_reelstrips_bet_68.json",
+				"freegames_6x5_bet_78": "freegames_6x5_reelstrips_bet_78.json",
+				"freegames_6x5_bet_88": "freegames_6x5_reelstrips_bet_88.json"
+			},
+			"overrideConfig": "override.json",
+			"weightedTables": "weighted-tables-var-02.json"
+		},
+		"var-03": {
+			"config": "configuration.json",
+			"slotConfig": {
+				"main": "main-slot.json",
+				
+				"freegames_3x5_bet_38": "freegames_3x5_slot_bet_38.json",
+				"freegames_3x5_bet_58": "freegames_3x5_slot_bet_58.json",
+				"freegames_3x5_bet_68": "freegames_3x5_slot_bet_68.json",
+				"freegames_3x5_bet_78": "freegames_3x5_slot_bet_78.json",
+				"freegames_3x5_bet_88": "freegames_3x5_slot_bet_88.json",
+				
+				"freegames_4x5_bet_38": "freegames_4x5_slot_bet_38.json",
+				"freegames_4x5_bet_58": "freegames_4x5_slot_bet_58.json",
+				"freegames_4x5_bet_68": "freegames_4x5_slot_bet_68.json",
+				"freegames_4x5_bet_78": "freegames_4x5_slot_bet_78.json",
+				"freegames_4x5_bet_88": "freegames_4x5_slot_bet_88.json",
+				
+				"freegames_5x5_bet_38": "freegames_5x5_slot_bet_38.json",
+				"freegames_5x5_bet_58": "freegames_5x5_slot_bet_58.json",
+				"freegames_5x5_bet_68": "freegames_5x5_slot_bet_68.json",
+				"freegames_5x5_bet_78": "freegames_5x5_slot_bet_78.json",
+				"freegames_5x5_bet_88": "freegames_5x5_slot_bet_88.json",
+				
+				"freegames_6x5_bet_38": "freegames_6x5_slot_bet_38.json",
+				"freegames_6x5_bet_58": "freegames_6x5_slot_bet_58.json",
+				"freegames_6x5_bet_68": "freegames_6x5_slot_bet_68.json",
+				"freegames_6x5_bet_78": "freegames_6x5_slot_bet_78.json",
+				"freegames_6x5_bet_88": "freegames_6x5_slot_bet_88.json"
+			},
+			"reelStripConfig": {
+				"main": "main-reelstrips.json",
+				"freegames_3x5_bet_38": "freegames_3x5_reelstrips_bet_38.json",
+				"freegames_3x5_bet_58": "freegames_3x5_reelstrips_bet_58.json",
+				"freegames_3x5_bet_68": "freegames_3x5_reelstrips_bet_68.json",
+				"freegames_3x5_bet_78": "freegames_3x5_reelstrips_bet_78.json",
+				"freegames_3x5_bet_88": "freegames_3x5_reelstrips_bet_88.json",
+				
+				"freegames_4x5_bet_38": "freegames_4x5_reelstrips_bet_38.json",
+				"freegames_4x5_bet_58": "freegames_4x5_reelstrips_bet_58.json",
+				"freegames_4x5_bet_68": "freegames_4x5_reelstrips_bet_68.json",
+				"freegames_4x5_bet_78": "freegames_4x5_reelstrips_bet_78.json",
+				"freegames_4x5_bet_88": "freegames_4x5_reelstrips_bet_88.json",
+				
+				"freegames_5x5_bet_38": "freegames_5x5_reelstrips_bet_38.json",
+				"freegames_5x5_bet_58": "freegames_5x5_reelstrips_bet_58.json",
+				"freegames_5x5_bet_68": "freegames_5x5_reelstrips_bet_68.json",
+				"freegames_5x5_bet_78": "freegames_5x5_reelstrips_bet_78.json",
+				"freegames_5x5_bet_88": "freegames_5x5_reelstrips_bet_88.json",
+				
+				"freegames_6x5_bet_38": "freegames_6x5_reelstrips_bet_38.json",
+				"freegames_6x5_bet_58": "freegames_6x5_reelstrips_bet_58.json",
+				"freegames_6x5_bet_68": "freegames_6x5_reelstrips_bet_68.json",
+				"freegames_6x5_bet_78": "freegames_6x5_reelstrips_bet_78.json",
+				"freegames_6x5_bet_88": "freegames_6x5_reelstrips_bet_88.json"
+			},
+			"overrideConfig": "override.json",
+			"weightedTables": "weighted-tables.json"
+		}
+	},
+	"defaultVariation": "var-03",
+	"configVersion": 2
+}
